@@ -5,5 +5,10 @@ langchain-anthropic>=1.0.0
 langchain-community>=0.4.0
 jupyter>=1.0.0
 langgraph-cli[inmem]>=0.4.0
-langchain-mcp-adapters
-langchain-groq
+langchain-mcp-adapters>=0.1.13
+langchain-groq>=1.0.1
+langsmith>=0.4.46
+chromadb
+pypdf
+sentence-transformers
+langchain-huggingface
